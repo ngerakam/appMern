@@ -1,0 +1,726 @@
+    1  cd Desktop/PROJECTS/
+    2  ls
+    3  cd BasicSite/
+    4  ls
+    5  ls -a
+    6  clear
+    7  virtualenv
+    8  sudo apt install python3-virtualenv
+    9  virtualenv
+   10  sudo apt uninstall python3-virtualenv
+   11  sudo apt remove python3-virtualenv
+   12  virtualenv
+   13  cd ../../Downloads/
+   14  ls
+   15  sudo apt install code
+   16  clear
+   17  ls
+   18  sudo dpkg -i code_1.66.2-1649664567_amd64.deb 
+   19  code
+   20  python --version
+   21  python3 --version
+   22  clear
+   23  pip3
+   24  sudo apt install python3-pip
+   25  pip3
+   26  clear
+   27  pip3 --version
+   28  pip3 install virtualenv
+   29  cd ..
+   30  source ~/.bashrc
+   31  source /etc/environment
+   32  sudoedit /etc/environment
+   33  virtualenv
+   34  sudoedit /etc/environment
+   35  virtualenv
+   36  clear
+   37  sudoedit /etc/environment
+   38  virtualenv
+   39  clear
+   40  python3 venv
+   41  clear
+   42  ls
+   43  ssh-keygen
+   44  clear
+   45  cd .ssh/
+   46  cat id_rsa.pub 
+   47  cd ../Desktop/
+   48  ls
+   49  mkdir PROJECTS
+   50  cd pro
+   51  cd PROJECTS/
+   52  ls
+   53  git clone git@github.com:ngerakam/BasicSite.git
+   54  sudo apt install git
+   55  git --version
+   56  git clone git@github.com:ngerakam/BasicSite.git
+   57  clear
+   58  git clone git@github.com:ngerakam/BasicSite.git
+   59  ls
+   60  cd BasicSite/
+   61  ls
+   62  git init
+   63  renboot
+   64  reboot
+   65  shutdown
+   66  virtualenv
+   67  ls -a
+   68  source ../myenv/bin/activate
+   69  python manage.py runserver
+   70  python manage.py runserver :7800
+   71  python manage.py runserver 127.0.0.1:7800
+   72  cd Desktop/PROJECTS/
+   73  ls
+   74  virtualenv myenv
+   75  ls
+   76  source myenv/bin/activate
+   77  cd BasicSite/
+   78  pip3 install -r requirements.txt 
+   79  pip3 freeze
+   80  pip freeze
+   81  pip3
+   82  pip3 list
+   83  code .
+   84  pip3 install -r requirements.txt 
+   85  pip install -r requirements.txt 
+   86  pip install psycopg2
+   87  pip install psycopg2-binary
+   88  pip install -r requirements.txt 
+   89  clear
+   90  pip install asigref
+   91  pip install asigref==3.5.0
+   92  clear
+   93  pip install -r requirements.txt 
+   94  pip freeze
+   95  pip install django
+   96  pip freeze
+   97  pip install pillow
+   98  pip install gunicorn
+   99  pip install django-heroku
+  100  python setup.py build_ext --pg-config /path/to/pg_config build
+  101  clear
+  102  pip install gunicorn
+  103  pip install python-decouple
+  104  pip install pytz
+  105  pip install whitenoise
+  106  pip install django-restframework
+  107  ls -a
+  108  pip install django-heroku
+  109  clear
+  110  pip install -r requirements.txt 
+  111  pip uninstall psycopg2-binary
+  112  clear
+  113  pip freeze
+  114  python manage.py runserver
+  115  cd ..
+  116  python setup.py build_ext --pg-config /path/to/pg_config build
+  117  brew
+  118  clear
+  119  sudo install postgresgl
+  120  sudo apt install postgresgl
+  121  sudo find / -name pg_config
+  122  sudo apt install postgresql-server-dev-all
+  123  ls -a
+  124  cd ./ssh
+  125  clear
+  126  cd .ssh/
+  127  ls
+  128  cat id_rsa.pub 
+  129  exit
+  130  sudo apt-get install https://cli-assets.heroku.com/install.sh | sh
+  131  sudo apt-get https://cli-assets.heroku.com/install.sh | sh
+  132  clear
+  133  sudo apt-get install heroku-cli
+  134  curl https://cli-assets.heroku.com/install.sh | sh
+  135  sudo apt-get install https://cli-assets.heroku.com/install-ubuntu.sh | sh
+  136  https://cli-assets.heroku.com/install-ubuntu.sh | sh
+  137  clear
+  138  heroku --version
+  139  sudo apt-get install heroku
+  140  sudo apt install heroku
+  141  clear
+  142  sudo curl https://cli-assets.heroku.com/install.sh | sh
+  143  sudo apt-get update
+  144  sudo apt-get install curl
+  145  clear
+  146  curl https://cli-assets.heroku.com/install.sh | sh
+  147  heroku --version
+  148  clear
+  149  heroku login
+  150  clear
+  151  heroku --help
+  152  heroku status
+  153  clear
+  154  cd Documents/
+  155  ls
+  156  cd ../Desktop/
+  157  ls
+  158  cd PROJECTS/
+  159  ls
+  160  source myenv/bin/activate
+  161  clear
+  162  cd ../..
+  163  cd Downloads/
+  164  sudo apt install disccls
+  165  ls
+  166  sudo dpkg discord-0.0.17.deb
+  167  clear
+  168  dpkg --help
+  169  shutdown 
+  170  ping http://dennisprofile.herokuapp.com
+  171  ping https://dennisprofile.herokuapp.com
+  172  ping google.com
+  173  clear
+  174  ping dennisprofile.herokuapp.com
+  175  clear
+  176  exit
+  177  python manage.py runserver
+  178  cexit
+  179  exit
+  180  cd Desktop/PROJECTS/
+  181  source myenv/bin/activate
+  182  pip freeze
+  183  pip install graphene
+  184  clear
+  185  cd BasicSite/
+  186  code .
+  187  clear
+  188  python manage.py runserver
+  189  exit
+  190  git status
+  191  git add .
+  192  git commit -m "look up"
+  193  git config --global user.email 'ngerakam123@gmail.com'
+  194  git config --global user.name 'Dennis Kamau Ngera'
+  195  git commit -m "look up"
+  196  git push -u origin main
+  197  exit
+  198  ping dennis.profile.herokuapp.com
+  199  ping dennisprofile.herokuapp.com
+  200  shutdown
+  201  cd Downloads/
+  202  ls
+  203  sudo dpkg -i google-chrome-stable_current_amd64.deb 
+  204  exit
+  205  cat >> B8PLM9II recovery.txt
+  206  cat > B8PLM9II recovery.txt
+  207  cat > B8PLM9II 'recovery.txt'
+  208  sudo bash -c 'cat >> B8PLM9II recovery.txt'
+  209  ll
+  210  cat recovery.txt 
+  211  exit
+  212  shutdown
+  213  sudo apt-get install nodejs
+  214  node -version
+  215  node --version
+  216  ls Desktop/
+  217  mkdir Desktop/ReactProjects
+  218  cd Desktop/ReactProjects/
+  219  ls
+  220  npx create-react-app firstapp
+  221  sudo apt install npm
+  222  node -v
+  223  clear
+  224  npx create-react-app firstapp
+  225  sudo apt-get install node
+  226  sudo apt-get update nodejs
+  227  sudo apt-get uninstall nodejs
+  228  sudo apt uninstall nodejs
+  229  sudo apt-get remove nodejs
+  230  sudo apt remove npm
+  231  node -v
+  232  ls
+  233  clear
+  234  cd ../../
+  235  curl -fsSL https://fnm.vercel.app/install | bash
+  236  source /home/dennis/.bashrc
+  237  node -v
+  238  sudo make install
+  239  node -v
+  240  tar xvzf node-v16.15.0.tar.gz 
+  241  ls
+  242  cd node-v16.15.0/
+  243  ls
+  244  ./configure
+  245  make
+  246  clear
+  247  cd ../
+  248  ls
+  249  rm -r node-v16.15.0
+  250  ls
+  251  curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+  252  sudo apt-get install -y nodejs
+  253  node -v
+  254  curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash
+  255  npx
+  256  sudo apt-get remove -y nodejs
+  257  clear
+  258  node -v
+  259  curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+  260  clear
+  261  pkg install node
+  262  sudo apt-get install -y node
+  263  clear
+  264  ls
+  265  tar xvzf node-v16.15.0.tar.gz 
+  266  cd node-v16.15.0/
+  267  ls
+  268  ./configure
+  269  make
+  270  shutdown 
+  271  cd ..
+  272  make
+  273  sudo apt-get update
+  274  sudo apt-get install update
+  275  sudo apt-get install upgrade
+  276  sudo apt upgrade
+  277  shutdown -s
+  278  exit
+  279  node --version
+  280  sudo apt install nodejs
+  281  node --version
+  282  clear
+  283  cd Desktop/
+  284  ls
+  285  cd ReactProjects/
+  286  ls
+  287  rm -r *
+  288  ls
+  289  npm i express body-parser 
+  290  sudo apt install npm
+  291  apt-get update
+  292  sudo apt-get update
+  293  sudo apt-get upgrade
+  294  cls
+  295  clear
+  296  sudo apt install npm
+  297  git
+  298  sudo apt-get upgrade
+  299  clear
+  300  npx create-react-app
+  301  sudo npm cache clean -f
+  302  clear
+  303  npm -v
+  304  npm i npm@latest
+  305  npm fund
+  306  npm -v
+  307  sudo npm cache clean -f
+  308  sudo rm -rf $TMPDIR/npm-*
+  309  sudo npm cache clean -f
+  310  sudo npm install -g n
+  311  sudo n stable
+  312  node -v
+  313  sudo apt uninstall node
+  314  sudo npm cache clean -f
+  315  sudo npm cache clean --f
+  316  sudo rm -rf $TMPDIR/npm-*
+  317  node -v
+  318  sudo apt-get remove node
+  319  sudo apt remove node
+  320  clear
+  321  npx create-react-app
+  322  npm -v
+  323  cd ../../
+  324  npm -v
+  325  cd ../../
+  326  sudo apt-get remove node
+  327  ls
+  328  ls -a
+  329  sudo apt-get remove nodejs
+  330  node -v
+  331  npm -v
+  332  cls
+  333  clear
+  334  npm -v
+  335  node -v
+  336  ls -a
+  337  sudo apt-get remove npm
+  338  sudo apt-get remove nodejs
+  339  node -v
+  340  cd ../..
+  341  npm i -g npx
+  342  npm i npx
+  343  ls -a
+  344  rm node_modules/
+  345  sudo rm -r node_modules/
+  346  rm package.json 
+  347  rm package-lock.json 
+  348  ls -a
+  349  sudo npm install -g npx
+  350  cd /usr/local/
+  351  ls
+  352  cd bin/
+  353  ls
+  354  cd no
+  355  npx
+  356  cd ../../../
+  357  cd ../
+  358  cd /ect
+  359  cd /etc
+  360  cd ../
+  361  cd Desktop/ReactProjects/
+  362  ls
+  363  git 
+  364  npm -v
+  365  cd Desktop/ReactProjects/
+  366  ls
+  367  code .
+  368  rm -r *
+  369  npx
+  370  clear
+  371  npx create-react-app loving-it
+  372  exit
+  373  sudo dpkg -i hyper_3.3.0_arm64.deb 
+  374  clear
+  375  sudo dpkg -i hyper_3.3.0_amd64.deb
+  376  exit
+  377  sudo dpkg -i mongodb-org-server_6.0.2_amd64.deb 
+  378  mongod
+  379  sudo dpkg -i mongodb-org-server_6.0.2_amd64.deb 
+  380  clear
+  381  mongod
+  382  cd ../
+  383  sudo apt-get upgrade
+  384  sudo apt --fix-broken install
+  385  mongod
+  386  clear
+  387  wget -qO - https://www.mongodb.org/static/pgp/server-6.0.asc | sudo apt-key add -
+  388  sudo apt-get install gnupg
+  389  wget -qO - https://www.mongodb.org/static/pgp/server-6.0.asc | sudo apt-key add -
+  390  echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu focal/mongodb-org/6.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-6.0.list
+  391  sudo apt-get update
+  392  sudo apt-get install -y mongodb-org
+  393  [200~sudo apt-get install -y mongodb-org=6.0.2 mongodb-org-database=6.0.2 mongodb-org-server=6.0.2 mongodb-mongosh=6.0.2 mongodb-org-mongos=6.0.2 mongodb-org-tools=6.0.2
+  394  ~sudo apt-get install -y mongodb-org=6.0.2 mongodb-org-database=6.0.2 mongodb-org-server=6.0.2 mongodb-mongosh=6.0.2 mongodb-org-mongos=6.0.2 mongodb-org-tools=6.0.2
+  395  sudo apt install -y mongodb-org=6.0.2 mongodb-org-database=6.0.2 mongodb-org-server=6.0.2 mongodb-mongosh=6.0.2 mongodb-org-mongos=6.0.2 mongodb-org-tools=6.0.2
+  396  sudo apt --fix-broken install
+  397  sudo apt-get install -y mongodb-org
+  398  wget http://archive.ubuntu.com/ubuntu/pool/main/o/openssl/libssl1.1_1.1.1f-1ubuntu2_amd64.deb
+  399  sudo dpkg -i libssl1.1_1.1.1f-1ubuntu2_amd64.deb
+  400  sudo apt-get install -y mongodb-org
+  401  echo "mongodb-org hold" | sudo dpkg --set-selections
+  402  echo "mongodb-org-database hold" | sudo dpkg --set-selections
+  403  echo "mongodb-org-server hold" | sudo dpkg --set-selections
+  404  echo "mongodb-mongosh hold" | sudo dpkg --set-selections
+  405  echo "mongodb-org-mongos hold" | sudo dpkg --set-selections
+  406  echo "mongodb-org-tools hold" | sudo dpkg --set-selections
+  407  mongod
+  408  clear
+  409  ps --no-headers -o comm 1
+  410  sudo systemctl start mongod
+  411  sudo systemctl status mongod
+  412  sudo systemctl stop mongod
+  413  npm start
+  414  cd Desktop/ReactProjects/
+  415  cd loving-it/
+  416  ls
+  417  npm i react-icons
+  418  npm i bootstrap
+  419  sudo systemctl start mongod
+  420  sudo systemctl enable mongod
+  421  sudo systemctl stop mongod
+  422  sudo systemctl start mongod
+  423  node --version
+  424  clear
+  425  mongo
+  426  mongosh
+  427  mongod
+  428  clear
+  429  mongosh
+  430  sudo service mongod stop
+  431  sudo apt-get purge mongodb-org*
+  432  sudo rm -r /var/log/mongodb
+  433  sudo rm -r /var/lib/mongodb
+  434  sudo systemctl status mongod
+  435  clear
+  436  sudo systemctl status mongod
+  437  clear
+  438  sudo systemctl status mongod
+  439  clear
+  440  sudo apt-get update
+  441  sudo apt-get install gnupg
+  442  wget -qO - https://www.mongodb.org/static/pgp/server-6.0.asc | sudo apt-key add -
+  443  echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu focal/mongodb-org/6.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-6.0.list
+  444  sudo apt-get update
+  445  sudo apt-get install -y mongodb-org
+  446  echo "mongodb-org hold" | sudo dpkg --set-selections
+  447  echo "mongodb-org-database hold" | sudo dpkg --set-selections
+  448  echo "mongodb-org-server hold" | sudo dpkg --set-selections
+  449  echo "mongodb-mongosh hold" | sudo dpkg --set-selections
+  450  echo "mongodb-org-mongos hold" | sudo dpkg --set-selections
+  451  echo "mongodb-org-tools hold" | sudo dpkg --set-selections
+  452  clear
+  453  sudo systemctl status mongod
+  454  clear
+  455  chmod +x studio-3t-linux-x64.sh 
+  456  bash studio-3t-linux-x64.sh 
+  457  mongosh
+  458  exit
+  459  sudo systemctl start mongod
+  460  sudo systemctl status mongod
+  461  sudo systemctl stop mongod
+  462  sudo systemctl status mongod
+  463  exit
+  464  sudo apt-key list
+  465  clear
+  466  sudo systemctl start mongod
+  467  mongosh
+  468  clear
+  469  sudo systemctl status mongod
+  470  cls
+  471  clear
+  472  sudo systemctl stop mongod
+  473  sudo systemctl status mongod
+  474  clear
+  475  python3 -version
+  476  python3 --version
+  477  $ python -m pip install 'pymongo[srv]'
+  478  $ python3 -m pip install 'pymongo[srv]'
+  479  pip install 'pymongo[srv]'
+  480  pip --version
+  481  pip freeze
+  482  cd Desktop/ReactProjects/
+  483  cd loving-it/
+  484  ls
+  485  code .
+  486  npm start
+  487  shutdown -s
+  488  shutdown
+  489  cd Desktop/ReactProjects/loving-it/
+  490  ls
+  491  npm start
+  492  clear
+  493  git status
+  494  git add *
+  495  git status
+  496  git commit -m "setup commit"
+  497  git status
+  498  git branch main
+  499  git status
+  500  git checkout
+  501  git checkout master
+  502  git branch -m main
+  503  git branch --delete main
+  504  git checkout
+  505  git branch -m main
+  506  git status
+  507  git remote add origin git@github.com:ngerakam/Keepers-replica.git
+  508  git push -u origin main
+  509  cd Desktop/ReactProjects/
+  510  cd loving-it/
+  511  ls
+  512  clear
+  513  npm start
+  514  code
+  515  cd Desktop/ReactProjects/l
+  516  cd Desktop/ReactProjects/loving-it/
+  517  clear
+  518  code .
+  519  npm start
+  520  clear
+  521  cd ../
+  522  npx create-react-app ngera-portfolio
+  523  cd ngera-portfolio/
+  524  code .
+  525  npm start
+  526  cd ../../../
+  527  clear
+  528  sudo systemctl start mongod
+  529  sudo systemctl status mongod
+  530  sudo systemctl stop mongod
+  531  sudo systemctl status mongod
+  532  npm start
+  533  npm uninstall bootstrap
+  534  npm audit
+  535  npm install @mui/material @emotion/react @emotion/styled
+  536  clear
+  537  npm install @mui/material @emotion/react @emotion/styled
+  538  npm install @mui/icons-material
+  539  git add *
+  540  git status
+  541  git -u origin main
+  542  git push -u origin main
+  543  cd ../ngera-portfolio/
+  544  npm install @mui/icons-material
+  545  npm install @mui/material @emotion/react @emotion/styled
+  546  cd ../loving-it/
+  547  npm i mongoose
+  548  npm install express mongoose mongo cors  --save
+  549  npm fund
+  550  npm uninstall express mongoose mongo cors  --save
+  551  mongod
+  552  sudo systemctl status mongod
+  553  clear
+  554  npm i nodemon -g
+  555  npm i -g nodemon
+  556  node
+  557  clear
+  558  npm install -g nodemon
+  559  clear
+  560  sudo npm install -g nodemon
+  561  npm fund
+  562  ls
+  563  cd src/
+  564  ls
+  565  cd connectors/
+  566  ls
+  567  clear
+  568  node mongoose.js 
+  569  clear
+  570  node mainConnect.js 
+  571  clear
+  572  node mainConnect.js 
+  573  cd ../../
+  574  cd ../../..
+  575  cd Desktop/ReactProjects/loving-it/backend/
+  576  clear
+  577  touch index.js
+  578  npm init
+  579  npm run test
+  580  npm install express mongoose mongo cors  --save
+  581  cd backend/
+  582  npm i dotenv
+  583  npm i body-parser
+  584  cd backend/
+  585  npm start
+  586  sudo dpkg -i docker-desktop-4.13.0-amd64.deb
+  587  $ gpg --generate-key
+  588  $ sudo gpg --generate-key
+  589  cd loving-it/
+  590  code .
+  591  npm install axios
+  592  cd Desktop/ReactProjects/
+  593  ls
+  594  cd mern/front-end/
+  595  ls
+  596  npm install axios
+  597  cd ../
+  598  code .
+  599  sudo systemctl status mongod
+  600  sudo systemctl stops mongod
+  601  sudo systemctl stop mongod
+  602  sudo systemctl status mongod
+  603  clear
+  604  sudo systemctl start mongod
+  605  sudo systemctl status mongod
+  606  sudo systemctl stop mongod
+  607  sudo systemctl status mongod
+  608  clear
+  609  sudo systemctl stop mongod
+  610  sudo systemctl status mongod
+  611  mongosh
+  612  sudo systemctl status mongod
+  613  exit
+  614  cd backend/
+  615  node server.js 
+  616  npm start
+  617  sudo dpkg -i mongodb-mongosh_1.6.0_amd64.deb 
+  618  sudo dpkg -i mongodb-compass_1.33.1_amd64.deb 
+  619  npm init
+  620  clear
+  621  npm i express dotenv mongoose colors
+  622  nodemon
+  623  clear
+  624  npm i -D nodemon
+  625  npm run server
+  626  clear
+  627  npm run server
+  628  git init
+  629  git add .
+  630  git commit -m "initial commit"
+  631  git status
+  632  1 + 4
+  633  npm run server
+  634  npm i exprees-async-handler
+  635  npm i express-async-handler
+  636  git add 
+  637  git commit -m "goals controller and routes"
+  638  git add .
+  639  git status
+  640  git commit -m "initial api"
+  641  git status
+  642  npm i bcryptjs
+  643  npm i jsonwebtoken
+  644  npm start
+  645  cd frontend/
+  646  npm start
+  647  cd ../
+  648  npm start
+  649  npm run client
+  650  cd frontend/
+  651  npm i react-router-dom
+  652  cd ../
+  653  git add .
+  654  git commit -m "Finalizing the user model and Adding the frontend"
+  655  git status
+  656  npm run client server
+  657  mongosh
+  658  exit
+  659  cd Desktop/ReactProjects/
+  660  cd mern/
+  661  ls
+  662  cd ../
+  663  cls
+  664  clear
+  665  cler
+  666  clear
+  667  mkdir mernApp
+  668  cd mernApp/
+  669  cd ../
+  670  rm -r mernApp/
+  671  ls
+  672  mkdir appMern
+  673  clear
+  674  cd appMern/
+  675  mkdir backend
+  676  code .
+  677  npx create-react-app frontend --template redux
+  678  exit
+  679  sudo systemctl status mongod
+  680  sudo systemctl stop mongod
+  681  sudo systemctl status mongod
+  682  exit
+  683  cd Desktop/ReactProjects/
+  684  ls
+  685  cd appMern/
+  686  ls
+  687  ls -l
+  688  ls -a
+  689  git remote add origin git@github.com:ngerakam/appMern.git
+  690  git branch -M main
+  691  git branch
+  692  git push -u origin main
+  693  shutdown
+  694  npm run client
+  695  clear
+  696  npm run client
+  697  npm run client  2300
+  698  npm run server
+  699  cd frontend/
+  700  npm i react-icons
+  701  cd ../../../
+  702  sudo systemctl status mongod
+  703  sudo systemctl stop mongod
+  704  sudo systemctl status mongod
+  705  cd Desktop/ReactProjects/appMern/
+  706  ls
+  707  code .
+  708  cd frontend/npm run client
+  709  cd frontend/
+  710  npm run client
+  711  npm start
+  712  clear
+  713  cd ../
+  714  npm run client
+  715  clear
+  716  npm run dev
+  717  clear
+  718  npm run server
+  719  clear
+  720  cd frontend/
+  721  npm i axios
+  722  npm i react-toastify
+  723  history
+  724  cd ../../../
+  725  history touch logging.txt
+  726  history > logging.txt
